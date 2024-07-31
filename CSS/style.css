@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    font-family: "Inter";
+
+}
+
+#logo{
+
+    width: 125px;
+    height: 62px;
+    margin-top: 52px;
+    margin-left: 56px;
+    
+}
+
+#titulo-menu-superior{
+
+    /*posição e tamanho da frase*/
+    width: 536px;
+    height: 102px;
+    margin-top: 185px;
+    margin-left: 172px;
+
+    /*tamanho da fonte*/
+    font-weight: 400px;
+    font-size: 40px;
+
+}
+
+#paragrafo-menu-superior{
+
+    /*posição e tamanho da frase*/
+    width: 536px;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 172px;
+    padding-bottom: 100px;
+
+    /*tamanho da fonte*/
+    font-weight: 400px;
+    font-size: 20px;
+
+}
+
+#menuSuperior{
+
+    color: aliceblue;
+    background-image: url(../imagens/FundoMenuSuperior.png);
+    
+}
+
+#informativoSuperior{
+
+    background-color: #EAECE5;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.icones{
+
+    width: 40px;
+    height: 40px;
+    margin: 50px 0px 50px 150px;
+    padding: 25px;
+
+}
+
+.textoInformativo{
+
+    display: flex;
+    align-items: center;
+
+}
+
+#secaoVideo{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#video{
+
+    margin: 50px 25px 50px 100px
+}
+
+#tituloVideo{
+
+    color: #247BA0;
+    margin-top: 50px;
+    width: 496px;
+    height: 96px;
+
+}
+
+#paragrafoVideo{
+
+    width: 496px;
+    height: 144px;
+
+}
+
+#sessaoCarrossel{
+
+    background-color: #247BA0;
+    padding: 50px;
+}
+
+#tituloCarrossel{
+
+    color: white;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#cardsCarrossel{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.cards{
+
+    padding: 50px
+}
+
+#setaEsquerda{
+
+    display: none;
+}
+
+#bruna{
+
+    display: none;
+}
+
+.seta{
+
+    padding: 55%;
+    cursor: pointer;
+}
+
+.seta:hover{
+
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+}
+
+#formulario{
+
+    text-align: center;
+}
+
+
+#tituloFormulario{
+
+    color: #383838;
+    font-size: 25px;
+    margin: 25px;
+}
+
+input{
+
+    width: 300px;
+    height: 30px;
+    background-color: #EAECE5;
+    border: 0;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+
+}
+
+button{
+
+    width: 250px;
+    height: 50px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    background-color: #247BA0;
+    color: #FFFFFF;
+    border: 0;
+    border-radius: 5px;
+    font-weight: bolder;
+    cursor: pointer;
+
+}
+
+button:hover{
+
+    background-color: #2c93be;
+    color: white;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #0b3f586a;
+
+}

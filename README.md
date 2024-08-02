@@ -1,2 +1,4 @@
-# projeto-landing-page-DNC
-Primeiro projeto da Profissão Arquiteto de Software da DNC.
+# Landing Page
+
+Landing page construida para apresentação de curso da escola DNC.
+Projeto construido nas aulas de Introdução de HTML e CSS.

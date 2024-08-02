@@ -1,5 +1,8 @@
 # 📝 Landing Page
 
+#### Landing page construida para descrição e apresentação de curso oferecido pela escola DNC.
+#### Projeto construido nas aulas de Introdução de HTML e CSS.
+
 ### *_Front-end_*
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"width="40" height="40"/>
@@ -9,6 +12,3 @@
 
 ### *_Software_*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-Landing page construida para descrição e apresentação de curso oferecido pela escola DNC.
-Projeto construido nas aulas de Introdução de HTML e CSS.

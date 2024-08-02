@@ -1,6 +1,6 @@
 # 📝 Landing Page
 
-#### Landing page construida para descrição e apresentação de curso oferecido pela escola DNC.
+#### Landing page construida para descrição e apresentação de um curso oferecido pela escola DNC.
 #### Projeto construido nas aulas de Introdução de HTML e CSS.
 
 ### *_Front-end_*

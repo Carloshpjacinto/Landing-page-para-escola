@@ -13,7 +13,7 @@ function rolarDireita(){
 
     bruna.style = "display:flex";
 
-    setaEsquerda.style = "display:flex; margin-top:40px"
+    setaEsquerda.style = "display:flex";
 
 }
 

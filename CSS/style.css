@@ -119,17 +119,15 @@
 
     display: grid;
     grid-auto-flow: column;
-    columns: auto;
+    justify-content: space-around;
+    align-items: center;
+
 }
 
 .cards{
 
     padding: 50px
-}
 
-#setaEsquerda{
-
-    display: none;
 }
 
 #bruna{

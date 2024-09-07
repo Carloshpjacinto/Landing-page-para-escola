@@ -1,6 +1,7 @@
 # 📝 Landing Page
 
 #### Landing page construida para descrição e apresentação de um curso oferecido pela escola DNC.
+#### Link do Site para visualização: https://landinpagednc.netlify.app
 #### Projeto construido nas aulas de Introdução de HTML e CSS.
 
 ### *_Front-end_*

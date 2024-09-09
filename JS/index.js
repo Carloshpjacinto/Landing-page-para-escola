@@ -26,4 +26,5 @@ function rolarEsquerda(){
     leonardo.style = "display:flex";
 
     setaDireita.style = "display:flex;"
+    
 }
